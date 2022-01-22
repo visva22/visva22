@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visva22
 - 👀 I’m interested in Food and coding :)
-- 🌱 I’m currently working as a Software Developer in John Deere  India
+- 🌱 I’m currently working as a Software Developer in India
 - 💞️ I’m looking to collaborate on open projecs and to solve challenging problems. 
 - 📫 You can reach me on Linkedin https://www.linkedin.com/in/vishnu-vardhan-reddy-arikatla-a165b6132/
 
